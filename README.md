@@ -11,8 +11,8 @@ We need your help answering both questions with one drop-down selection and a ju
 In the past we have accepted over 99 percent of HIT assignments, and maintain a similar policy as our other campaigns:
 If you leave the justification box blank, put in a 3-word response or less, or otherwise do not provide an argument for your decision on the dropdown selection, we will reject the HIT. 
 
-#####Justification box
-Use the justification text box as a space to argue why your categorization should be the correct label. Please don’t restate what time length you chose- we have your choice from the dropdown data. 
+## Dropdown and Justification box
+###Select the best option from the drop down menu and explain your choice in the justification box*; argue why your categorization should be the correct label. Please don’t restate what time length you chose- we have your choice from the dropdown data. 
 
 Here are actual examples from the dataset. Read these examples to get an idea of what our thoughts are on labeling:
 
