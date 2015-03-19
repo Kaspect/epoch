@@ -1,6 +1,6 @@
 # Instructions for Mechanical Turk Tasks:
 
-If you own a car, chances are you've experienced awful service at a dealership or dealer service department. We have extracted over _5000 complaints_ using our newest tools, which we hope will improve how dealers interact with customers. 
+If you own a car, chances are you've experienced awful service at a dealership or dealer service department. We have extracted over _5000 complaints_ using our newest tools, which we hope will improve how dealers interact with customers. We know that these people are dissatisfied. But are they specifically mentioning their dissatisfaction with their experienced wait-time?
 
 #####Here’s what we want to know:
 1. In each of these posts, is the author specifically dissatisfied with the speed of service? Said another way, Do they believe they waited for too long?
